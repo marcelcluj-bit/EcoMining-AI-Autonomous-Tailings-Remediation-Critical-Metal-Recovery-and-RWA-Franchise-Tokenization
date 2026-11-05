@@ -1,0 +1,2 @@
+# EcoMining-AI-Autonomous-Tailings-Remediation-Critical-Metal-Recovery-and-RWA-Franchise-Tokenization
+ndustrial mining legacies have generated thousands of un-reclaimed tailings ponds globally, creating severe environmental liabilities (acid rock drainage, toxic eolian dust) alongside unexploited reserves of critical technology metals (Tellurium, Germanium, Gallium, Rare Earths). This project a scalable open-source, and tokenized pilot 
