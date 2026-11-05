@@ -10,5 +10,5 @@ The primary assets and source code components included in this repository:
 * 📄 **Minerit cu ai.odt** — Additional technical notes and project documentation.
 * 🐍 **ecomining_core.py** — Core Python implementation for the EcoMining AI engine with IoT sensor simulation.
 * 🐍 **Python Source Code: ECO999 Tokenization & Simulation** — Source code for the `$ECO999` tokenomics engine and simulation logic.
-* 📜 **LICENSE** — Open-source MIT License terms.
+
 * 📜 **[LICENSE](https://github.com/marcelcluj-bit/EcoMining-AI-Autonomous-Tailings-Remediation-Critical-Metal-Recovery-and-RWA-Franchise-Tokenization/blob/main/LICENSE)** — Open-source MIT License terms.
